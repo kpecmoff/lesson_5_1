@@ -1,0 +1,68 @@
+/* &display=swap */
+@import "null.css";
+/* =============Подключенный мною шрифт================ */
+@import url("https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap");
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	max-width: 808px;
+	margin: 0px auto;
+	
+}
+/* ==================== Стили ============================== */
+.statistics {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 1.3;
+	align-items: center;
+	color: #1E212C;
+	margin: 100px 0px 92px;
+	
+}
+.img {
+	margin-bottom: 60px;
+}
+.bold {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 1.5;
+}
+.block {
+	margin: 24px 0px 48px;
+	height: 182px;
+}
+.center {
+	text-align: left;
+}
+.regular {
+	font-weight: 400;
+	color: #424551;
+	font-size: 16px;
+	line-height: 1.6;
+}
+.paragraph {
+	margin-top: 44px;
+}
+.box {
+	margin: 48px 0px 0px 0px;
+}
+.line {
+	margin: 0px 0px 0px 59px;	
+}
+.pop {
+	margin-bottom: 24px;
+}
+.list {
+	width: 600px;
+	height: 116px;
+}
+ul li {
+	margin: 4px 0px ;
+}
+.last {
+	margin: 24px 0px 212px;
+}
+footer {
+	text-align: center;
+}
